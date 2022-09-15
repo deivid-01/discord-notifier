@@ -1,2 +1,2 @@
 # discord-notifier
-Send discord messages using a WebHook
+Send messages to discord channel using a WebHook from Unity
